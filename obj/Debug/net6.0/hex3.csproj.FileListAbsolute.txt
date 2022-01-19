@@ -1,0 +1,15 @@
+D:\00-fisiere-cod\cs-fudnamente\hex3\obj\Debug\net6.0\hex3.csproj.AssemblyReference.cache
+D:\00-fisiere-cod\cs-fudnamente\hex3\obj\Debug\net6.0\hex3.GeneratedMSBuildEditorConfig.editorconfig
+D:\00-fisiere-cod\cs-fudnamente\hex3\obj\Debug\net6.0\hex3.AssemblyInfoInputs.cache
+D:\00-fisiere-cod\cs-fudnamente\hex3\obj\Debug\net6.0\hex3.AssemblyInfo.cs
+D:\00-fisiere-cod\cs-fudnamente\hex3\obj\Debug\net6.0\hex3.csproj.CoreCompileInputs.cache
+D:\00-fisiere-cod\cs-fudnamente\hex3\bin\Debug\net6.0\hex3.exe
+D:\00-fisiere-cod\cs-fudnamente\hex3\bin\Debug\net6.0\hex3.deps.json
+D:\00-fisiere-cod\cs-fudnamente\hex3\bin\Debug\net6.0\hex3.runtimeconfig.json
+D:\00-fisiere-cod\cs-fudnamente\hex3\bin\Debug\net6.0\hex3.dll
+D:\00-fisiere-cod\cs-fudnamente\hex3\bin\Debug\net6.0\ref\hex3.dll
+D:\00-fisiere-cod\cs-fudnamente\hex3\bin\Debug\net6.0\hex3.pdb
+D:\00-fisiere-cod\cs-fudnamente\hex3\obj\Debug\net6.0\hex3.dll
+D:\00-fisiere-cod\cs-fudnamente\hex3\obj\Debug\net6.0\ref\hex3.dll
+D:\00-fisiere-cod\cs-fudnamente\hex3\obj\Debug\net6.0\hex3.pdb
+D:\00-fisiere-cod\cs-fudnamente\hex3\obj\Debug\net6.0\hex3.genruntimeconfig.cache
